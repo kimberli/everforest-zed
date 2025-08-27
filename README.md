@@ -33,4 +33,4 @@ To generate the Zed theme files, run `python generate_themes.py`.
 
 ## Credits
 
-- Original theme by [Sainnhe Park](https://github.com/sainnhe)
+- Original theme by [Sainnhe Park](https://github.com/sainnhe): [Everforest](https://github.com/sainnhe/everforest)
