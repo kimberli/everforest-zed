@@ -1,0 +1,137 @@
+[
+    {
+        "hex": "#232A2E",
+        "name": "bg_dim",
+        "usage": "Dimmed Background"
+    },
+    {
+        "hex": "#2D353B",
+        "name": "bg0",
+        "usage": "Default Background, Line Numbers Background, Signs Background, Status Line Background (inactive), Tab Line Label (active)"
+    },
+    {
+        "hex": "#343F44",
+        "name": "bg1",
+        "usage": "Cursor Line Background, Color Columns, Closed Folds Background, Status Line Background (active), Tab Line Background"
+    },
+    {
+        "hex": "#3D484D",
+        "name": "bg2",
+        "usage": "Popup Menu Background, Floating Window Background, Window Toolbar Background"
+    },
+    {
+        "hex": "#475258",
+        "name": "bg3",
+        "usage": "List Chars, Special Keys, Tab Line Label Background (inactive)"
+    },
+    {
+        "hex": "#4F585E",
+        "name": "bg4",
+        "usage": "Window Splits Separators, Whitespaces, Breaks"
+    },
+    {
+        "hex": "#56635f",
+        "name": "bg5",
+        "usage": "Not currently used"
+    },
+    {
+        "hex": "#543A48",
+        "name": "bg_visual",
+        "usage": "Visual Selection"
+    },
+    {
+        "hex": "#514045",
+        "name": "bg_red",
+        "usage": "Diff Deleted Line Background, Error Highlights"
+    },
+    {
+        "hex": "#4D4C43",
+        "name": "bg_yellow",
+        "usage": "Warning Highlights"
+    },
+    {
+        "hex": "#425047",
+        "name": "bg_green",
+        "usage": "Diff Added Line Background, Hint Highlights"
+    },
+    {
+        "hex": "#3A515D",
+        "name": "bg_blue",
+        "usage": "Diff Changed Line Background, Info Highlights"
+    },
+    {
+        "hex": "#4A444E",
+        "name": "bg_purple",
+        "usage": ""
+    },
+    {
+        "hex": "#D3C6AA",
+        "name": "fg",
+        "usage": "Default Foreground, Signs, [Treesitter: Constants, Variables, Function Parameters, Properties, Symbol Identifiers]"
+    },
+    {
+        "hex": "#E67E80",
+        "name": "red",
+        "usage": "Conditional Keywords, Loop Keywords, Exception Keywords, Inclusion Keywords, Uncategorised Keywords, Diff Deleted Signs, Error Messages, Error Signs"
+    },
+    {
+        "hex": "#E69875",
+        "name": "orange",
+        "usage": "Operator Keywords, Operators, Labels, Storage Classes, Composite Types, Enumerated Types, Tags, Title, Debugging Statements"
+    },
+    {
+        "hex": "#DBBC7F",
+        "name": "yellow",
+        "usage": "Types, Special Characters, Warning Messages, Warning Signs, [Treesitter: Modules, Namespaces]"
+    },
+    {
+        "hex": "#A7C080",
+        "name": "green",
+        "usage": "Function Names, Method Names, Strings, Characters, Hint Messages, Hint Signs, Search Highlights, [Treesitter: Constructors, Function Calls, Built-In Functions, Macro Functions, String Escapes, Regex Literals, Tag Delimiters, Non-Structured Text]"
+    },
+    {
+        "hex": "#83C092",
+        "name": "aqua",
+        "usage": "Constants, Macros, [Treesitter: Strings, Characters]"
+    },
+    {
+        "hex": "#7FBBB3",
+        "name": "blue",
+        "usage": "Identifiers, Uncategorised Special Symbols, Diff Changed Text Background, Info Messages, Info Signs, [Treesitter: Fields, Special Punctuation, Math Environments]"
+    },
+    {
+        "hex": "#D699B6",
+        "name": "purple",
+        "usage": "Booleans, Numbers, Preprocessors, [Treesitter: Built-In Constants, Built-In Variables, Macro-Defined Constants, Attributes/Annotations]"
+    },
+    {
+        "hex": "#7A8478",
+        "name": "grey0",
+        "usage": "Line Numbers, Fold Columns, Concealed Text, Foreground UI Elements"
+    },
+    {
+        "hex": "#859289",
+        "name": "grey1",
+        "usage": "Comments, Punctuation Delimiters, Closed Folds, Ignored/Disabled, UI Borders, Status Line Text"
+    },
+    {
+        "hex": "#9DA9A0",
+        "name": "grey2",
+        "usage": "Cursor Line Number, Tab Line Label (inactive)"
+    },
+    {
+        "hex": "#A7C080",
+        "name": "statusline1",
+        "usage": "Menu Selection Background, Tab Line Label Background (active), Status Line Mode Indicator"
+    },
+    {
+        "hex": "#D3C6AA",
+        "name": "statusline2",
+        "usage": "Status Line Mode Indicator"
+    },
+    {
+        "hex": "#E67E80",
+        "name": "statusline3",
+        "usage": "Status Line Mode Indicator"
+    }
+]
