@@ -4,12 +4,13 @@ Everforest is a green based color scheme; it's designed to be warm and soft in o
 
 ## Installation
 
+(TODO: Publish this as an official extension?)
 1. Open Zed
 2. Open the command palette (`Cmd+Shift+P` on macOS, `Ctrl+Shift+P` on Linux/Windows)
 3. Type "zed: extensions" and select it
 4. Search for "everforest" and install
 
-Alternatively, you can install this extension by cloning this repository into your Zed extensions directory.
+In the meantime, you can install this extension by cloning this repository, then installing it as a dev extension.
 
 ## Themes Included
 
